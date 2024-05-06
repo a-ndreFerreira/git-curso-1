@@ -1,0 +1,1 @@
+oi, aqui estou no editor dentro do bash
