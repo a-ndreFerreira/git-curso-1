@@ -1,2 +1,2 @@
 oi, aqui estou no editor dentro do bash
-Modificação para o commit
+Modificação para o commit antes do add e push
