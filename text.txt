@@ -1,2 +1,3 @@
 oi, aqui estou no editor dentro do bash
 Modificação para o commit antes do add e push
+testando uma atualização de arquivo,no git, para fazer o pull!
