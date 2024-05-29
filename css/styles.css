@@ -1,4 +1,8 @@
-h1{
+h1 {
 	color: red;
 	font-size: 30px;
+}
+
+.p-home {
+	font-size: 40px;
 }
